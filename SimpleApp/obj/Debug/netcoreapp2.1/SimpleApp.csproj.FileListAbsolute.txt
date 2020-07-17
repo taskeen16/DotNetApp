@@ -1,0 +1,15 @@
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.AssemblyInfo.cs
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.deps.json
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.json
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.runtimeconfig.dev.json
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.dll
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\bin\Debug\netcoreapp2.1\SimpleApp.pdb
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.csprojAssemblyReference.cache
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cache
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorAssemblyInfo.cs
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.RazorTargetAssemblyInfo.cache
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.dll
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\SimpleApp.pdb
+C:\Users\Taskeen\Source\Repos\SimpleApp\SimpleApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
